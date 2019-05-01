@@ -69,7 +69,6 @@ const ModalContainer = styled.div`
   align-items: center;
   transition: opacity 2s all;
   #modal:hover {
-    background: var(--mainWhite);
-    opacity: 1;
+
   }
 `;
