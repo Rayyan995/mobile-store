@@ -67,8 +67,7 @@ const ModalContainer = styled.div`
   background: rgba(0, 0, 0, 0.3);
   display: flex;
   align-items: center;
-  transition: opacity 2s all;
-  #modal:hover {
-
+  #modal {
+    background: var(--mainWhite);
   }
 `;
