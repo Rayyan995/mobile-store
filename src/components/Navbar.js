@@ -20,7 +20,7 @@ export default class Navbar extends Component {
             </Link>
           </li>
         </ul>
-        <Link to="/" className="ml-auto">
+        <Link to="/cart" className="ml-auto">
           <ButtonContainer inputColor='@red'>
             <i className="fas fa-cart-plus" /> My Cart
           </ButtonContainer>
